@@ -1,0 +1,9 @@
+[project]
+name = "power-logger"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "influxdb-client>=1.50.0",
+    "joulescope>=1.5.0",
+]

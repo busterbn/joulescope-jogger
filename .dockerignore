@@ -1,0 +1,12 @@
+.venv
+__pycache__/
+*.py[oc]
+*.egg-info
+build/
+dist/
+wheels/
+.git
+.claude
+.env
+grafana/data
+README.md
